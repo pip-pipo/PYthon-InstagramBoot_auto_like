@@ -34,7 +34,7 @@
 
 # driver.find_element_by_xpath('/html/body/div[1]/section/main/div/div/div[1]/div/form/div/div[1]/div/label/input').send_keys('pyjonathon')
 
-# driver.find_element_by_xpath('/html/body/div[1]/section/main/div/div/div[1]/div/form/div/div[2]/div/label/input]').send_keys('mdjonathon.1!')
+# driver.find_element_by_xpath('/html/body/div[1]/section/main/div/div/div[1]/div/form/div/div[2]/div/label/input]').send_keys('password')
 
 # =========================
 # from selenium import webdriver
@@ -75,7 +75,7 @@
 #             driver.execute("window.scrollTo(0,document.body.scrollHeight);")
 #             time.sleep(3)
 
-# Boot=InstagrameBot('pyjonathon','pyjonathon.1!')
+# Boot=InstagrameBot('pyjonathon','********')
 # Boot.Login()
 # Boot.Like_photos("Bangladesh")
 
